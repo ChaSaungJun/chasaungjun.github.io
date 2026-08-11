@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://chasaungjun.github.io/worldsignal/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://chasaungjun.github.io/worldsignal/#news</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://chasaungjun.github.io/worldsignal/#ent</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
+  <!-- 글: Chzzk Singcup Galaxy Song Contest 2026 -->
   <url>
     <loc>https://chasaungjun.github.io/worldsignal/posts/chzzk-singcup-galaxy-song-contest-2026/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
+  <!-- 글: 2026 KWDA Lineup 27 Artists -->
   <url>
     <loc>https://chasaungjun.github.io/worldsignal/posts/2026-kwda-lineup-27-artists/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
+  <!-- 글: Red Velvet Velvet Summer Comeback 2026 -->
   <url>
     <loc>https://chasaungjun.github.io/worldsignal/posts/red-velvet-velvet-summer-comeback-2026/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
