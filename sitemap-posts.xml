@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- 글: Bill Gates Korea Visit & TerraPower SMR 2026 -->
+  <url>
+    <loc>https://chasaungjun.github.io/worldsignal/posts/bill-gates-korea-visit-terrapower-smr-2026/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 글: Hwasa Jensen Huang Handwritten Letter 2026 -->
+  <url>
+    <loc>https://chasaungjun.github.io/worldsignal/posts/hwasa-jensen-huang-handwritten-letter-2026/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- 글: Chzzk Singcup Galaxy Song Contest 2026 -->
   <url>
     <loc>https://chasaungjun.github.io/worldsignal/posts/chzzk-singcup-galaxy-song-contest-2026/</loc>
