@@ -1,0 +1,19 @@
+# Site settings
+title: "차승준의 깃허브 블로그"
+description: "어서오세요, 차승준의 깃허브 블로그입니다."
+url: "https://chasaungjun.github.io"
+baseurl: ""
+
+# Build settings
+# 사이트맵 및 인증/검색엔진 관련 정적 파일 명시적 포함
+include:
+  - sitemap.xml
+  - sitemap-posts.xml
+  - sitemap-pages.xml
+  - robots.txt
+  - google336506c493985ca4.html
+  - naverc42512ece508eb660c3478f1c672fd47.html
+
+# Exclude from processing
+exclude:
+  - README.md
