@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- 글: BIGBANG 20th Anniversary Comeback BiiiG 2026 -->
+  <url>
+    <loc>https://chasaungjun.github.io/worldsignal/posts/bigbang-20th-anniversary-biiig-comeback-2026/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- 글: Bill Gates Korea Visit & TerraPower SMR 2026 -->
   <url>
     <loc>https://chasaungjun.github.io/worldsignal/posts/bill-gates-korea-visit-terrapower-smr-2026/</loc>
